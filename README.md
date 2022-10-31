@@ -10,3 +10,4 @@ untuk mencari luas lingkaran:r=int(input('masukan jari-jari lingkaran:'))
 # Mendeklarasikan nilai Phi
 L=phi*(r*r)
 # Mencetak hasil
+![Screenshot (35)](https://user-images.githubusercontent.com/115986870/198987958-1eda5227-a31f-4146-af3b-2344f1f72c9b.png)
